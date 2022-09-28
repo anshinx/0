@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/atkafasimenu/static/css/main.5f8e728b.css",
-    "main.js": "/atkafasimenu/static/js/main.5e596da5.js",
+    "main.css": "/atkafasimenu/static/css/main.2bd2d01c.css",
+    "main.js": "/atkafasimenu/static/js/main.c55cc8c0.js",
     "static/media/menuTea.png": "/atkafasimenu/static/media/menuTea.35a62fc5e1a3a95eeb68.png",
     "static/media/kola.png": "/atkafasimenu/static/media/kola.817d00c6ab9987179927.png",
     "static/media/heading.png": "/atkafasimenu/static/media/heading.fcae60490c576206e656.png",
     "static/media/Logo.png": "/atkafasimenu/static/media/Logo.eac20f3de544cbf1cb9b.png",
     "static/media/menu-burger.svg": "/atkafasimenu/static/media/menu-burger.9a3b7215e0f2e5651ce12cad6de8458f.svg",
     "index.html": "/atkafasimenu/index.html",
-    "main.5f8e728b.css.map": "/atkafasimenu/static/css/main.5f8e728b.css.map",
-    "main.5e596da5.js.map": "/atkafasimenu/static/js/main.5e596da5.js.map"
+    "main.2bd2d01c.css.map": "/atkafasimenu/static/css/main.2bd2d01c.css.map",
+    "main.c55cc8c0.js.map": "/atkafasimenu/static/js/main.c55cc8c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f8e728b.css",
-    "static/js/main.5e596da5.js"
+    "static/css/main.2bd2d01c.css",
+    "static/js/main.c55cc8c0.js"
   ]
 }
