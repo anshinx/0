@@ -1,0 +1,12 @@
+.heading_background {
+  width: 98vw;
+  position: absolute;
+  max-height: 60vh;
+  z-index: -1;
+}
+.heading_content {
+  position: relative;
+  top: 2.5rem;
+  left: .75rem;
+  margin: 0 0 25vh 0;
+}
