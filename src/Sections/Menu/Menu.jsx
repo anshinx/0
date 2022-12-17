@@ -39,21 +39,28 @@ function Menu() {
               setSelection('hots')
             }}
           >
-            <h2 className="menu_label">Sıcaklar</h2>
+            <h2 className="menu_label">Sıcak İçecekler</h2>
           </label>
           <label
             onClick={() => {
               setSelection('cold')
             }}
           >
-            <h2 className="menu_label">Soğuklar</h2>
+            <h2 className="menu_label">Soğuk İçecekler</h2>
           </label>
           <label
             onClick={() => {
               setSelection('cofee')
             }}
           >
-            <h2 className="menu_label">Kahveler</h2>
+            <h2 className="menu_label">Dünya Kahveleri</h2>
+          </label>
+          <label
+            onClick={() => {
+              setSelection('cofee')
+            }}
+          >
+            <h2 className="menu_label">Türk Kahveleri</h2>
           </label>
           <label
             onClick={() => {
