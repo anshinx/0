@@ -1,0 +1,84 @@
+{
+    "hots": [
+        {
+            "name": "Çay",
+            "price": "7.0"
+        },
+        {
+            "name": "Fincan Çay",
+            "price": "10.0"
+        },
+        {
+            "name": "Çay",
+            "price": "5"
+        },
+        {
+            "name": "Çay",
+            "price": "5"
+        },
+        {
+            "name": "Çay",
+            "price": "5"
+        },
+        {
+            "name": "Çay",
+            "price": "5"
+        },
+        {
+            "name": "Çay",
+            "price": "5"
+        },
+        {
+            "name": "Çay",
+            "price": "5"
+        }
+    ],
+    "colds": [
+        {
+            "name": "Çay",
+            "price": "5"
+        }
+    ],
+    "cofeeWorld": [
+        {
+            "name": "Çay",
+            "price": "5"
+        }
+    ],
+    "cofeeTurkish": [
+        {
+            "name": "Çay",
+            "price": "5"
+        }
+    ],
+    "pasta": [
+        {
+            "name": "Çay",
+            "price": "5"
+        }
+    ],
+    "salads": [
+        {
+            "name": "Çay",
+            "price": "5"
+        }
+    ],
+    "apetizers": [
+        {
+            "name": "Çay",
+            "price": "5"
+        }
+    ],
+    "meals": [
+        {
+            "name": "Çay",
+            "price": "5"
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Çay",
+            "price": "5"
+        }
+    ]
+}
