@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/https//anshinx.github.io/horseheadmenu/static/css/main.89ed5c6d.css",
-    "main.js": "/https//anshinx.github.io/horseheadmenu/static/js/main.9a83c4cc.js",
-    "static/media/menuTea.png": "/https//anshinx.github.io/horseheadmenu/static/media/menuTea.35a62fc5e1a3a95eeb68.png",
-    "static/media/kola.png": "/https//anshinx.github.io/horseheadmenu/static/media/kola.817d00c6ab9987179927.png",
-    "static/media/heading.png": "/https//anshinx.github.io/horseheadmenu/static/media/heading.fcae60490c576206e656.png",
-    "static/media/Logo.png": "/https//anshinx.github.io/horseheadmenu/static/media/Logo.eac20f3de544cbf1cb9b.png",
-    "index.html": "/https//anshinx.github.io/horseheadmenu/index.html",
-    "static/media/menu-burger.svg": "/https//anshinx.github.io/horseheadmenu/static/media/menu-burger.7456c1af842abf44ec982894aa3b86e1.svg",
-    "main.89ed5c6d.css.map": "/https//anshinx.github.io/horseheadmenu/static/css/main.89ed5c6d.css.map",
-    "main.9a83c4cc.js.map": "/https//anshinx.github.io/horseheadmenu/static/js/main.9a83c4cc.js.map"
+    "main.css": "/https//anshinx.github.io/atkafasimenu/static/css/main.89ed5c6d.css",
+    "main.js": "/https//anshinx.github.io/atkafasimenu/static/js/main.863f379e.js",
+    "static/media/menuTea.png": "/https//anshinx.github.io/atkafasimenu/static/media/menuTea.35a62fc5e1a3a95eeb68.png",
+    "static/media/kola.png": "/https//anshinx.github.io/atkafasimenu/static/media/kola.817d00c6ab9987179927.png",
+    "static/media/heading.png": "/https//anshinx.github.io/atkafasimenu/static/media/heading.fcae60490c576206e656.png",
+    "static/media/Logo.png": "/https//anshinx.github.io/atkafasimenu/static/media/Logo.eac20f3de544cbf1cb9b.png",
+    "index.html": "/https//anshinx.github.io/atkafasimenu/index.html",
+    "static/media/menu-burger.svg": "/https//anshinx.github.io/atkafasimenu/static/media/menu-burger.7456c1af842abf44ec982894aa3b86e1.svg",
+    "main.89ed5c6d.css.map": "/https//anshinx.github.io/atkafasimenu/static/css/main.89ed5c6d.css.map",
+    "main.863f379e.js.map": "/https//anshinx.github.io/atkafasimenu/static/js/main.863f379e.js.map"
   },
   "entrypoints": [
     "static/css/main.89ed5c6d.css",
-    "static/js/main.9a83c4cc.js"
+    "static/js/main.863f379e.js"
   ]
 }
