@@ -235,32 +235,160 @@
     ],
     "pasta": [
         {
-            "name": "Çay",
-            "price": "5"
+            "name": "Kremalı Mantarlı Makarna",
+            "price": "45.0"
+        },
+        {
+            "name": "Köri Soslu Makarna",
+            "price": "40.0"
+        },
+        {
+            "name": "Peynirli Makarna",
+            "price": "40.0"
         }
     ],
     "salads": [
         {
-            "name": "Çay",
-            "price": "5"
+            "name": "Salata",
+            "price": "30.0"
+        },
+        {
+            "name": "Peynirli Salata",
+            "price": "40.0"
+        },
+        {
+            "name": "Sezar Salata",
+            "price": "40.0"
+        },
+        {
+            "name": "Ton Balıklı Salata",
+            "price": "45.0"
         }
     ],
     "apetizers": [
         {
-            "name": "Çay",
-            "price": "5"
+            "name": "Sucuklu Tost",
+            "price": "38.0"
+        },
+        {
+            "name": "Kaşarlı Tost",
+            "price": "40.0"
+        },
+        {
+            "name": "Karışık Tost",
+            "price": "40.0"
+        },
+        {
+            "name": "Sucuklu Bazlama Tost",
+            "price": "38.0"
+        },
+        {
+            "name": "Kaşarlı Bazlama Tost",
+            "price": "40.0"
+        },
+        {
+            "name": "Kaşarlı Bazlama Tost",
+            "price": "40.0"
+        },
+        {
+            "name": "Yengen Tost",
+            "price": "45.0"
+        },
+        {
+            "name": "Menemen",
+            "price": "35.0"
+        },
+        {
+            "name": "Sucuklu Yumurta",
+            "price": "33.0"
+        },
+        {
+            "name": "Patates Kızartması",
+            "price": "30.0"
+        },
+        {
+            "name": "Nugget Tabağı",
+            "price": "39.0"
+        },
+        {
+            "name": "Tender Tabağı",
+            "price": "40.0"
+        },
+        {
+            "name": "Patso",
+            "price": "40.0"
         }
     ],
     "meals": [
         {
-            "name": "Çay",
-            "price": "5"
+            "name": "Köri Soslu Tavuk",
+            "price": "60.0"
+        },
+        {
+            "name": "Fesleğen Soslu Tavuk",
+            "price": "60.0"
+        },
+        {
+            "name": "Barbekü Soslu Tavuk",
+            "price": "60.0"
+        },
+        {
+            "name": "Köfte",
+            "price": "65.0"
+        },
+        {
+            "name": "Tavuk Wrap",
+            "price": "42.0"
+        },
+        {
+            "name": "Hamburger",
+            "price": "70.0"
+        },
+        {
+            "name": "Cheseeburger",
+            "price": "75.0"
         }
     ],
     "desserts": [
         {
-            "name": "Çay",
-            "price": "5"
+            "name": "Suffle",
+            "price": "32.0"
+        },
+        {
+            "name": "Waffle",
+            "price": "32.0"
+        },
+        {
+            "name": "Sütlaç",
+            "price": "32.0"
+        },
+        {
+            "name": "Magnolia",
+            "price": "32.0"
+        },
+        {
+            "name": "Top Dondurma",
+            "price": "8.0"
+        },
+        {
+            "name": "Büyük Waffle",
+            "price": "32.0"
+        },
+        {
+            "name": "Profiterol",
+            "price": "32.0"
+        },
+        {
+            "name": "Turta",
+            "price": "32.0"
+        },
+        {
+            "name": "Trileçe",
+            "price": "32.0"
+        },
+        {
+            "name": "Pasta",
+            "price": "32.0"
         }
     ]
 }
