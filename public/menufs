@@ -1,0 +1,266 @@
+{
+    "hots": [
+        {
+            "name": "Çay",
+            "price": "7.0"
+        },
+        {
+            "name": "Oralet",
+            "price": "8.0"
+        },
+        {
+            "name": "Fincan Çay",
+            "price": "10.0"
+        },
+        {
+            "name": "Sıcak Süt",
+            "price": "20.0"
+        },
+        {
+            "name": "Bitki Çayları",
+            "price": "23.0"
+        },
+        {
+            "name": "Sahlep",
+            "price": "24.0"
+        },
+        {
+            "name": "Ballı Süt",
+            "price": "25.0"
+        },
+        {
+            "name": "Demlik Çay",
+            "price": "60.0"
+        }
+    ],
+    "chocolate": [
+        {
+            "name": "Sıcak Çikolata",
+            "price": "25.0"
+        },
+        {
+            "name": "Beyaz Çikolata",
+            "price": "25.0"
+        },
+        {
+            "name": "Sıcak Çikolata",
+            "price": "25.0"
+        },
+        {
+            "name": "Aromalı Çikolata",
+            "price": "27.0"
+        },
+        {
+            "name": "Aromalı Beyaz Çikolata",
+            "price": "25.0"
+        },
+        {
+            "name": "Soğuk Çikolata",
+            "price": "25.0"
+        },
+        {
+            "name": "Aromalı Soğuk Çikolata",
+            "price": "25.0"
+        }
+    ],
+    "colds": [
+        {
+            "name": "Su",
+            "price": "7.0"
+        },
+        {
+            "name": "Soda",
+            "price": "12.0"
+        },
+        {
+            "name": "Meyveli Soda",
+            "price": "15.0"
+        },
+        {
+            "name": "Kola",
+            "price": "18.0"
+        },
+        {
+            "name": "Fanta",
+            "price": "18.0"
+        },
+        {
+            "name": "Sprite",
+            "price": "18.0"
+        },
+        {
+            "name": "Meyve Suyu",
+            "price": "18.0"
+        },
+        {
+            "name": "Ice Tea",
+            "price": "18.0"
+        },
+        {
+            "name": "Soda Ayran",
+            "price": "22.0"
+        },
+        {
+            "name": "Limonata",
+            "price": "30.0"
+        },
+        {
+            "name": "Enerji İçeceği",
+            "price": "30.0"
+        },
+        {
+            "name": "Milkshake",
+            "price": "33.0"
+        },
+        {
+            "name": "Frozen",
+            "price": "33.0"
+        },
+        {
+            "name": "Lemon Brew",
+            "price": "51.0"
+        },
+        {
+            "name": "Cold Grapse",
+            "price": "51.0"
+        }
+    ],
+    "cofeeWorld": [
+        {
+            "name": "Espresso",
+            "price": "14.0"
+        },
+        {
+            "name": "Double Espresso",
+            "price": "16.0"
+        },
+        {
+            "name": "Risietto",
+            "price": "15.0"
+        },
+        {
+            "name": "Lungo",
+            "price": "16.0"
+        },
+        {
+            "name": "Espresso Macchiato",
+            "price": "17.0"
+        },
+        {
+            "name": "Americano",
+            "price": "22.0"
+        },
+        {
+            "name": "Latte",
+            "price": "24.0"
+        },
+        {
+            "name": "Flat White",
+            "price": "24.0"
+        },
+        {
+            "name": "Latte Macchiato",
+            "price": "27.0"
+        },
+        {
+            "name": "Aromalı Macchiato",
+            "price": "28.0"
+        },
+        {
+            "name": "Mocha",
+            "price": "27.0"
+        },
+        {
+            "name": "White Chocolate Mocha",
+            "price": "26.0"
+        },
+        {
+            "name": "Bicerin",
+            "price": "32.0"
+        },
+        {
+            "name": "Filtre Kahve",
+            "price": "22.0"
+        },
+        {
+            "name": "Sütlü Filtre Kahve",
+            "price": "26.0"
+        },
+        {
+            "name": "Aromalı Filtre Kahve",
+            "price": "29.0"
+        },
+        {
+            "name": " Sütlü Nescafe",
+            "price": "22.0"
+        },
+        {
+            "name": "Iced Latte",
+            "price": "22.0"
+        },
+        {
+            "name": "Iced Mocha",
+            "price": "29.0"
+        },
+        {
+            "name": "Iced Americano",
+            "price": "24.0"
+        },
+        {
+            "name": "Frappuccino",
+            "price": "34.0"
+        }
+    ],
+    "cofeeTurkish": [
+        {
+            "name": "Türk Kahvesi",
+            "price": "20.0"
+        },
+        {
+            "name": "Sütlü Türk Kahvesi",
+            "price": "23.0"
+        },
+        {
+            "name": "Çikolatalı Türk Kahvesi",
+            "price": "23.0"
+        },
+        {
+            "name": "Dibek Kahvesi",
+            "price": "23.0"
+        },
+        {
+            "name": "Menengiç Kahvesi",
+            "price": "23.0"
+        }
+    ],
+    "pasta": [
+        {
+            "name": "Çay",
+            "price": "5"
+        }
+    ],
+    "salads": [
+        {
+            "name": "Çay",
+            "price": "5"
+        }
+    ],
+    "apetizers": [
+        {
+            "name": "Çay",
+            "price": "5"
+        }
+    ],
+    "meals": [
+        {
+            "name": "Çay",
+            "price": "5"
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Çay",
+            "price": "5"
+        }
+    ]
+}
