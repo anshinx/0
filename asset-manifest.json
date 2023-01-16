@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/atkafasimenu/static/css/main.89ed5c6d.css",
-    "main.js": "/atkafasimenu/static/js/main.4ec15a5f.js",
+    "main.js": "/atkafasimenu/static/js/main.ac234cff.js",
     "static/media/menuTea.png": "/atkafasimenu/static/media/menuTea.35a62fc5e1a3a95eeb68.png",
     "static/media/kola.png": "/atkafasimenu/static/media/kola.817d00c6ab9987179927.png",
     "static/media/heading.png": "/atkafasimenu/static/media/heading.fcae60490c576206e656.png",
@@ -9,10 +9,10 @@
     "static/media/menu-burger.svg": "/atkafasimenu/static/media/menu-burger.7456c1af842abf44ec982894aa3b86e1.svg",
     "index.html": "/atkafasimenu/index.html",
     "main.89ed5c6d.css.map": "/atkafasimenu/static/css/main.89ed5c6d.css.map",
-    "main.4ec15a5f.js.map": "/atkafasimenu/static/js/main.4ec15a5f.js.map"
+    "main.ac234cff.js.map": "/atkafasimenu/static/js/main.ac234cff.js.map"
   },
   "entrypoints": [
     "static/css/main.89ed5c6d.css",
-    "static/js/main.4ec15a5f.js"
+    "static/js/main.ac234cff.js"
   ]
 }
