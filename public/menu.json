@@ -2,15 +2,15 @@
     "hots": [
         {
             "name": "Çay",
-            "price": "7.0"
+            "price": "9.0"
         },
         {
             "name": "Oralet",
-            "price": "8.0"
+            "price": "10.0"
         },
         {
             "name": "Fincan Çay",
-            "price": "10.0"
+            "price": "15.0"
         },
         {
             "name": "Sıcak Süt",
@@ -18,11 +18,11 @@
         },
         {
             "name": "Bitki Çayları",
-            "price": "23.0"
+            "price": "30.0"
         },
         {
             "name": "Sahlep",
-            "price": "24.0"
+            "price": "28.0"
         },
         {
             "name": "Ballı Süt",
@@ -30,37 +30,37 @@
         },
         {
             "name": "Demlik Çay",
-            "price": "60.0"
+            "price": "75.0"
         }
     ],
     "chocolate": [
         {
             "name": "Sıcak Çikolata",
-            "price": "25.0"
+            "price": "30.0"
         },
         {
             "name": "Beyaz Çikolata",
-            "price": "25.0"
+            "price": "30.0"
         },
         {
             "name": "Sıcak Çikolata",
-            "price": "25.0"
+            "price": "33.0"
         },
         {
             "name": "Aromalı Çikolata",
-            "price": "27.0"
+            "price": "33.0"
         },
         {
             "name": "Aromalı Beyaz Çikolata",
-            "price": "25.0"
+            "price": "33.0"
         },
         {
             "name": "Soğuk Çikolata",
-            "price": "25.0"
+            "price": "30.0"
         },
         {
             "name": "Aromalı Soğuk Çikolata",
-            "price": "25.0"
+            "price": "33.0"
         }
     ],
     "colds": [
@@ -70,35 +70,35 @@
         },
         {
             "name": "Soda",
-            "price": "12.0"
-        },
-        {
-            "name": "Meyveli Soda",
             "price": "15.0"
         },
         {
+            "name": "Meyveli Soda",
+            "price": "20.0"
+        },
+        {
             "name": "Kola",
-            "price": "18.0"
+            "price": "20.0"
         },
         {
             "name": "Fanta",
-            "price": "18.0"
+            "price": "20.0"
         },
         {
             "name": "Sprite",
-            "price": "18.0"
+            "price": "20.0"
         },
         {
             "name": "Meyve Suyu",
-            "price": "18.0"
+            "price": "20.0"
         },
         {
             "name": "Ice Tea",
-            "price": "18.0"
+            "price": "20.0"
         },
         {
             "name": "Soda Ayran",
-            "price": "22.0"
+            "price": "30.0"
         },
         {
             "name": "Limonata",
@@ -106,15 +106,15 @@
         },
         {
             "name": "Enerji İçeceği",
-            "price": "30.0"
+            "price": "35.0"
         },
         {
             "name": "Milkshake",
-            "price": "33.0"
+            "price": "40.0"
         },
         {
             "name": "Frozen",
-            "price": "33.0"
+            "price": "40.0"
         },
         {
             "name": "Lemon Brew",
@@ -128,51 +128,51 @@
     "cofeeWorld": [
         {
             "name": "Espresso",
-            "price": "14.0"
+            "price": "20.0"
         },
         {
             "name": "Double Espresso",
-            "price": "16.0"
+            "price": "25.0"
         },
         {
             "name": "Risietto",
-            "price": "15.0"
+            "price": "20.0"
         },
         {
             "name": "Lungo",
-            "price": "16.0"
+            "price": "20.0"
         },
         {
             "name": "Espresso Macchiato",
-            "price": "17.0"
+            "price": "30.0"
         },
         {
             "name": "Americano",
-            "price": "22.0"
+            "price": "26.0"
         },
         {
             "name": "Latte",
-            "price": "24.0"
+            "price": "29.0"
         },
         {
             "name": "Flat White",
-            "price": "24.0"
+            "price": "32.0"
         },
         {
             "name": "Latte Macchiato",
-            "price": "27.0"
+            "price": "34.0"
         },
         {
             "name": "Aromalı Macchiato",
-            "price": "28.0"
+            "price": "35.0"
         },
         {
             "name": "Mocha",
-            "price": "27.0"
+            "price": "33.0"
         },
         {
             "name": "White Chocolate Mocha",
-            "price": "26.0"
+            "price": "32.0"
         },
         {
             "name": "Bicerin",
@@ -180,31 +180,31 @@
         },
         {
             "name": "Filtre Kahve",
-            "price": "22.0"
+            "price": "25.0"
         },
         {
             "name": "Sütlü Filtre Kahve",
-            "price": "26.0"
+            "price": "30.0"
         },
         {
             "name": "Aromalı Filtre Kahve",
-            "price": "29.0"
+            "price": "35.0"
         },
         {
             "name": " Sütlü Nescafe",
-            "price": "22.0"
+            "price": "27.0"
         },
         {
             "name": "Iced Latte",
-            "price": "22.0"
+            "price": "30.0"
         },
         {
             "name": "Iced Mocha",
-            "price": "29.0"
+            "price": "35.0"
         },
         {
             "name": "Iced Americano",
-            "price": "24.0"
+            "price": "28.0"
         },
         {
             "name": "Frappuccino",
@@ -214,61 +214,61 @@
     "cofeeTurkish": [
         {
             "name": "Türk Kahvesi",
-            "price": "20.0"
+            "price": "25.0"
         },
         {
             "name": "Sütlü Türk Kahvesi",
-            "price": "23.0"
+            "price": "28.0"
         },
         {
             "name": "Çikolatalı Türk Kahvesi",
-            "price": "23.0"
+            "price": "28.0"
         },
         {
             "name": "Dibek Kahvesi",
-            "price": "23.0"
+            "price": "28.0"
         },
         {
             "name": "Menengiç Kahvesi",
-            "price": "23.0"
+            "price": "28.0"
         }
     ],
     "pasta": [
         {
             "name": "Kremalı Mantarlı Makarna",
-            "price": "45.0"
+            "price": "55.0"
         },
         {
             "name": "Köri Soslu Makarna",
-            "price": "40.0"
+            "price": "50.0"
         },
         {
             "name": "Peynirli Makarna",
-            "price": "40.0"
+            "price": "50.0"
         }
     ],
     "salads": [
         {
             "name": "Salata",
-            "price": "30.0"
+            "price": "35.0"
         },
         {
             "name": "Peynirli Salata",
-            "price": "40.0"
+            "price": "50.0"
         },
         {
             "name": "Sezar Salata",
-            "price": "40.0"
+            "price": "60.0"
         },
         {
             "name": "Ton Balıklı Salata",
-            "price": "45.0"
+            "price": "60.0"
         }
     ],
     "apetizers": [
         {
             "name": "Sucuklu Tost",
-            "price": "38.0"
+            "price": "40.0"
         },
         {
             "name": "Kaşarlı Tost",
@@ -276,119 +276,115 @@
         },
         {
             "name": "Karışık Tost",
-            "price": "40.0"
+            "price": "45.0"
         },
         {
             "name": "Sucuklu Bazlama Tost",
-            "price": "38.0"
+            "price": "40.0"
         },
         {
             "name": "Kaşarlı Bazlama Tost",
             "price": "40.0"
         },
         {
-            "name": "Kaşarlı Bazlama Tost",
+            "name": "Karışık Bazlama Tost",
             "price": "40.0"
         },
         {
             "name": "Yengen Tost",
-            "price": "45.0"
-        },
-        {
-            "name": "Menemen",
-            "price": "35.0"
-        },
-        {
-            "name": "Sucuklu Yumurta",
-            "price": "33.0"
+            "price": "57.0"
         },
         {
             "name": "Patates Kızartması",
-            "price": "30.0"
-        },
-        {
-            "name": "Nugget Tabağı",
-            "price": "39.0"
-        },
-        {
-            "name": "Tender Tabağı",
-            "price": "40.0"
+            "price": "35.0"
         },
         {
             "name": "Patso",
+            "price": "33.0"
+        },
+        {
+            "name": "Menemen",
+            "price": "43.0"
+        },
+        {
+            "name": "Sucuklu Yumurta",
             "price": "40.0"
+        },
+        {
+            "name": "Tender Tabağı",
+            "price": "48.0"
         }
     ],
     "meals": [
         {
             "name": "Köri Soslu Tavuk",
-            "price": "60.0"
-        },
-        {
-            "name": "Fesleğen Soslu Tavuk",
-            "price": "60.0"
-        },
-        {
-            "name": "Barbekü Soslu Tavuk",
-            "price": "60.0"
-        },
-        {
-            "name": "Köfte",
-            "price": "65.0"
-        },
-        {
-            "name": "Tavuk Wrap",
-            "price": "42.0"
-        },
-        {
-            "name": "Hamburger",
             "price": "70.0"
         },
         {
-            "name": "Cheseeburger",
+            "name": "Fesleğen Soslu Tavuk",
+            "price": "70.0"
+        },
+        {
+            "name": "Barbekü Soslu Tavuk",
+            "price": "70.0"
+        },
+        {
+            "name": "Köfte",
             "price": "75.0"
+        },
+        {
+            "name": "Tavuk Wrap",
+            "price": "60.0"
+        },
+        {
+            "name": "Hamburger",
+            "price": "75.0"
+        },
+        {
+            "name": "Cheseeburger",
+            "price": "80.0"
         }
     ],
     "desserts": [
         {
             "name": "Suffle",
-            "price": "32.0"
+            "price": "40.0"
         },
         {
             "name": "Waffle",
-            "price": "32.0"
+            "price": "40.0"
+        },
+        {
+            "name": "Büyük Waffle",
+            "price": "60.0"
         },
         {
             "name": "Sütlaç",
-            "price": "32.0"
+            "price": "40.0"
         },
         {
             "name": "Magnolia",
-            "price": "32.0"
+            "price": "40.0"
         },
         {
             "name": "Top Dondurma",
             "price": "8.0"
         },
-        {
-            "name": "Büyük Waffle",
-            "price": "32.0"
-        },
-        {
+            {
             "name": "Profiterol",
-            "price": "32.0"
+            "price": "40.0"
         },
         {
             "name": "Turta",
-            "price": "32.0"
+            "price": "40.0"
         },
         {
             "name": "Trileçe",
-            "price": "32.0"
+            "price": "40.0"
         },
         {
             "name": "Pasta",
-            "price": "32.0"
+            "price": "40.0"
         }
     ]
 }
