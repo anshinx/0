@@ -1,11 +1,11 @@
 import './App.css'
-import { Navbar, Heading, Menu } from './Sections'
+import { Navbar,  Menu } from './Sections'
 
 function App() {
   return (
     <div className="App">
       <Navbar />
-      <Heading />
+{/*       <Heading /> */}
       <Menu />
     </div>
   )

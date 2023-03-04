@@ -16,13 +16,13 @@ function Navbar() {
       </button>
       <div className="navbar_menu hidden">
         <a href="#about" className="navbar_menu_item">
-          Home
+          Menü
         </a>
-        <a href="#about" className="navbar_menu_item">
-          About
+        <a href="https://www.instagram.com/atkafasicafe/?hl=tr" className="navbar_menu_item">
+          Instagram
         </a>
-        <a href="#contact" className="navbar_menu_item">
-          Contact
+        <a href="tel:+905348446012" className="navbar_menu_item">
+          İletişim
         </a>
       </div>
     </div>

@@ -5,11 +5,11 @@ import { HeadingBackground, Kola, MenuTea } from '../../Assets'
 function Menu() {
   const [menu, setMenu] = React.useState([])
   const [loading, setLoading] = React.useState(true)
-  const [selection, setSelection] = React.useState('cofee')
+  const [selection, setSelection] = React.useState('hots')
   React.useEffect(() => {
     axios
       .get(
-        'https://raw.githubusercontent.com/anshinx/react-hasbihall/menu-json/menufs',
+        'https://raw.githubusercontent.com/anshinx/atkafasimenu/master/public/menu.json',
       )
       .then((res) => {
         setMenu(res.data)
@@ -20,13 +20,7 @@ function Menu() {
 
   console.log(menu)
 
-  const imageArray = {
-    cofee: HeadingBackground,
-    hots: MenuTea,
-    cold: Kola,
-    meals: HeadingBackground,
-    desserts: HeadingBackground,
-  }
+
 
   return (
     <div>
@@ -34,61 +28,103 @@ function Menu() {
         <h1>Lütfen Bekleyin...</h1>
       ) : (
         <>
-          <label
-            onClick={() => {
-              setSelection('hots')
-            }}
-          >
-            <h2 className="menu_label">Sıcak İçecekler</h2>
-          </label>
-          <label
-            onClick={() => {
-              setSelection('cold')
-            }}
-          >
-            <h2 className="menu_label">Soğuk İçecekler</h2>
-          </label>
-          <label
-            onClick={() => {
-              setSelection('cofee')
-            }}
-          >
-            <h2 className="menu_label">Dünya Kahveleri</h2>
-          </label>
-          <label
-            onClick={() => {
-              setSelection('cofee')
-            }}
-          >
-            <h2 className="menu_label">Türk Kahveleri</h2>
-          </label>
-          <label
-            onClick={() => {
-              setSelection('meals')
-            }}
-          >
-            <h2 className="menu_label"> Yiyecekler</h2>
-          </label>
-          <label
-            onClick={() => {
-              setSelection('desserts')
-            }}
-          >
-            <h2 className="menu_label"  >Tatlılar</h2>
-          </label>
-          <div>
-            <img
-              src={imageArray[selection]}
-              alt=""
-              class="heading_background"
-            />
+          <div className='menu_selections'>
 
-            {menu[selection].map((item) => (
-              <div key={item.id} className="menu_item_array">
-                <h4>{item.name} &nbsp; -- &nbsp; </h4>
-                <h5> {item.price}₺</h5>
-              </div>
-            ))}
+            <label
+              onClick={() => {
+                setSelection('hots')
+
+              }}
+            >
+              <a href="#menu_content" className={selection !== "hots" ? "menu_label" : "selected"}>Sıcak İçecekler </a>
+            </label>
+            <br />
+            <label
+              onClick={() => {
+                setSelection('chocolate')
+              }}
+            >
+              <a href="#menu_content" className={selection !== "chocolate" ? "menu_label" : "selected"}>Çikolatalar </a>
+            </label>
+            <br />
+            <label
+              onClick={() => {
+                setSelection('colds')
+              }}
+            >
+              <a href="#menu_content" className={selection !== "colds" ? "menu_label" : "selected"}>Soğuk İçecekler </a>
+            </label>
+            <br />
+            <label
+              onClick={() => {
+                setSelection('cofeeWorld')
+              }}
+            >
+              <a href="#menu_content" className={selection !== "cofeeWorld" ? "menu_label" : "selected"}>Dünya Kahveleri </a>
+            </label>
+            <br />
+            <label
+              onClick={() => {
+                setSelection('cofeeTurkish')
+              }}
+            >
+              <a href="#menu_content" className={selection !== "cofeeTurkish" ? "menu_label" : "selected"}>Türk Kahveleri </a>
+            </label>
+            <br />
+            <label
+              onClick={() => {
+                setSelection('apetizers')
+              }}
+            >
+              <a href="#menu_content" className={selection !== "apetizers" ? "menu_label" : "selected"}> Aperatifler </a>
+            </label>
+            <br />
+            <label
+              onClick={() => {
+                setSelection('salads')
+              }}
+            >
+              <a href="#menu_content" className={selection !== "salads" ? "menu_label" : "selected"}> Salatalar </a>
+            </label>
+            <br />
+            <label
+              onClick={() => {
+                setSelection('pasta')
+              }}
+            >
+              <a href="#menu_content" className={selection !== "pasta" ? "menu_label" : "selected"}> Makarnalar </a>
+            </label>
+            <br />
+            <label
+              onClick={() => {
+                setSelection('meals')
+              }}
+            >
+              <a href="#menu_content" className={selection !== "meals" ? "menu_label" : "selected"}> Ana Yemekler </a>
+            </label>
+            <br />
+            <label
+              onClick={() => {
+                setSelection('desserts')
+              }}
+            >
+              <a href="#menu_content" className={selection !== "desserts" ? "menu_label" : "selected"}  >Tatlılar </a>
+            </label>
+          </div>
+          <div id='menu_content'>
+
+
+
+            {menu[selection].map((item) => {
+              console.log(item);
+              return (
+                <div key={item.id} className="menu_item_array">
+                  <h4  >{item.name}   - </h4>
+                  <br />
+                  <h5>-  {item.price}₺</h5>
+                </div>
+              )
+            })}
           </div>
         </>
       )}
