@@ -23,7 +23,7 @@ function Menu() {
 
 
   return (
-    <div>
+    <div className='m-2'>
       {loading ? (
         <h1>Lütfen Bekleyin...</h1>
       ) : (
@@ -36,7 +36,7 @@ function Menu() {
 
               }}
             >
-              <a href="#menu_content" className={selection !== "hots" ? "menu_label" : "selected"}>Sıcak İçecekler </a>
+              <a className={selection !== "hots" ? "menu_label" : "selected"}>Sıcak İçecekler </a>
             </label>
             <br />
             <label
@@ -44,7 +44,7 @@ function Menu() {
                 setSelection('chocolate')
               }}
             >
-              <a href="#menu_content" className={selection !== "chocolate" ? "menu_label" : "selected"}>Çikolatalar </a>
+              <a className={selection !== "chocolate" ? "menu_label" : "selected"}>Çikolatalar </a>
             </label>
             <br />
             <label
@@ -52,7 +52,7 @@ function Menu() {
                 setSelection('colds')
               }}
             >
-              <a href="#menu_content" className={selection !== "colds" ? "menu_label" : "selected"}>Soğuk İçecekler </a>
+              <a className={selection !== "colds" ? "menu_label" : "selected"}>Soğuk İçecekler </a>
             </label>
             <br />
             <label
@@ -60,7 +60,7 @@ function Menu() {
                 setSelection('cofeeWorld')
               }}
             >
-              <a href="#menu_content" className={selection !== "cofeeWorld" ? "menu_label" : "selected"}>Dünya Kahveleri </a>
+              <a className={selection !== "cofeeWorld" ? "menu_label" : "selected"}>Dünya Kahveleri </a>
             </label>
             <br />
             <label
@@ -68,7 +68,7 @@ function Menu() {
                 setSelection('cofeeTurkish')
               }}
             >
-              <a href="#menu_content" className={selection !== "cofeeTurkish" ? "menu_label" : "selected"}>Türk Kahveleri </a>
+              <a className={selection !== "cofeeTurkish" ? "menu_label" : "selected"}>Türk Kahveleri </a>
             </label>
             <br />
             <label
@@ -76,7 +76,7 @@ function Menu() {
                 setSelection('apetizers')
               }}
             >
-              <a href="#menu_content" className={selection !== "apetizers" ? "menu_label" : "selected"}> Aperatifler </a>
+              <a className={selection !== "apetizers" ? "menu_label" : "selected"}> Aperatifler </a>
             </label>
             <br />
             <label
@@ -84,7 +84,7 @@ function Menu() {
                 setSelection('salads')
               }}
             >
-              <a href="#menu_content" className={selection !== "salads" ? "menu_label" : "selected"}> Salatalar </a>
+              <a className={selection !== "salads" ? "menu_label" : "selected"}> Salatalar </a>
             </label>
             <br />
             <label
@@ -92,7 +92,7 @@ function Menu() {
                 setSelection('pasta')
               }}
             >
-              <a href="#menu_content" className={selection !== "pasta" ? "menu_label" : "selected"}> Makarnalar </a>
+              <a className={selection !== "pasta" ? "menu_label" : "selected"}> Makarnalar </a>
             </label>
             <br />
             <label
@@ -100,7 +100,7 @@ function Menu() {
                 setSelection('meals')
               }}
             >
-              <a href="#menu_content" className={selection !== "meals" ? "menu_label" : "selected"}> Ana Yemekler </a>
+              <a className={selection !== "meals" ? "menu_label" : "selected"}> Ana Yemekler </a>
             </label>
             <br />
             <label
@@ -108,7 +108,7 @@ function Menu() {
                 setSelection('desserts')
               }}
             >
-              <a href="#menu_content" className={selection !== "desserts" ? "menu_label" : "selected"}  >Tatlılar </a>
+              <a className={selection !== "desserts" ? "menu_label" : "selected"}  >Tatlılar </a>
             </label>
           </div>
           <div id='menu_content'>
@@ -119,9 +119,9 @@ function Menu() {
               console.log(item);
               return (
                 <div key={item.id} className="menu_item_array">
-                  <h4  >{item.name}   - </h4>
-                  <br />
-                  <h5>-  {item.price}₺</h5>
+                  <h4  >{item.name}</h4>
+
+                  <h5>{item.price}₺</h5>
                 </div>
               )
             })}
