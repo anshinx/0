@@ -80,6 +80,10 @@
             "name": "Kola",
             "price": "25.0"
         },
+          {
+            "name": "Schweppes Mandalina",
+            "price": "30.0"
+        },
         {
             "name": "Fanta",
             "price": "25.0"
@@ -116,14 +120,7 @@
             "name": "Frozen",
             "price": "40.0"
         },
-        {
-            "name": "Lemon Brew",
-            "price": "51.0"
-        },
-        {
-            "name": "Cold Grapse",
-            "price": "51.0"
-        }
+        
     ],
     "cofeeWorld": [
         {
